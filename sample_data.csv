@@ -1,8 +1,6 @@
-sample_data
-sample_data,,,,
-Mata Pelajaran,Bil. Daftar,Bil. Ambil,GPMP Semasa,GPMP Lepas
-Matematik,2000,1992,2.70,4.50
-Biologi,1000,995,3.20,4.70
-Sains,2000,1990,3.40,5.20
-Matematik Tambahan,1800,1750,5.11,6.28
-Fizik,800,792,6.12,5.22
+﻿Mata Pelajaran,Bil. Daftar,Bil. Ambil,GPMP Semasa,GPMP Lepas
+Bahasa Melayu,2000,1992,2.70,4.50
+Bahasa Arab,1000,995,3.20,4.70
+Bahasa Cina,2000,1990,3.40,5.20
+Bahasa Tamil,1800,1750,5.11,6.28
+Bahasa Jepun,800,792,6.12,5.22
